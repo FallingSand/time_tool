@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello World!")
+    println(state.getTime())
+    io.file.init()
 }
