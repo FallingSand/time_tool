@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jar1">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar1</output-path>
+    <root id="archive" name="jar1.jar">
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+      <element id="module-output" name="time_tool" />
+    </root>
+  </artifact>
+</component>
